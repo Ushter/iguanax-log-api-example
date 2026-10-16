@@ -22,8 +22,6 @@ Added configurable base URL, HTTP-status checks, input checks, empty-log handlin
 
 Mock tests cover success, empty results, and logout after retrieval failure. Actual Iguana X endpoints and response formats have not been tested here. This is source code, not a complete exported component.
 
-Recovered project by Meer Ushter, refactored for portfolio presentation.
-
 ## Run local unit tests
 
 From this repository directory, use Lua 5.4:
