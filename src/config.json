@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "default": "http://127.0.0.1:7654",
+      "description": "Iguana X base URL",
+      "name": "base_url",
+      "options": "",
+      "type": "String"
+    },
+    {
+      "default": "",
+      "description": "iguana username",
+      "name": "username",
+      "options": "",
+      "type": "String"
+    },
+    {
+      "default": "",
+      "description": "iguana password",
+      "name": "password",
+      "options": "",
+      "type": "Password"
+    }
+  ]
+}
